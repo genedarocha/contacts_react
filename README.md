@@ -1,4 +1,16 @@
+
+Pre-requisites
+
+
+Getting Started
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Support
+
+
+License
+
 
 ## Available Scripts
 
